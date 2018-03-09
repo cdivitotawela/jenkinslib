@@ -1,1 +1,3 @@
-echo "test run"
+def call(Closure config){
+  echo "test run"
+}
